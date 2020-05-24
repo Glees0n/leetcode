@@ -13,3 +13,6 @@ https://leetcode.com/
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [C++](https://github.com/Glees0n/leetcode/blob/master/subtract-product-and-sum/subtract-product-and-sum.cpp) | Easy |  
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [C++](https://github.com/Glees0n/leetcode/blob/master/find-numbers-with-even-digits/find-numbers-with-even-digits.cpp) | Easy |  
 
+| #  | Title | Solution | Difficulty |
+| ------------- | ------------- | ------------- | ------------- |
+| 0000 | [May LeetCoding Challenge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/) | [C++](https://github.com/Glees0n/leetcode/tree/master/may-codeleet-challenge) | Easy |
