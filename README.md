@@ -10,3 +10,5 @@ https://leetcode.com/
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](https://github.com/Glees0n/leetcode/blob/master/jewels-and-stones/jewels-and-stones.cpp) | Easy |  
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [C++](https://github.com/Glees0n/leetcode/blob/master/smaller-than-current-number/smaller-than-current-number.cpp) | Easy |  
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [C++](https://github.com/Glees0n/leetcode/blob/master/decompass-encoded-list/decompass-encoded-list.cpp) | Easy |  
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [C++](https://github.com/Glees0n/leetcode/blob/master/subtract-product-and-sum/subtract-product-and-sum.cpp) | Easy |  
+
