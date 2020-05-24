@@ -10,10 +10,7 @@ std::vector<int> smallerNumbersThanCurrent(std::vector<int>& nums)
 		int count = 0;
 		for (size_t k = 0; k < nums.size(); k++)
 		{
-			if (nums[k] < nums[i])
-			{
-				count++;
-			}
+			nums[k] < nums[i] ? count++ : NULL;
 		}
 		countVec.push_back(count);
 	}
@@ -23,7 +20,7 @@ std::vector<int> smallerNumbersThanCurrent(std::vector<int>& nums)
 
 int main()
 {
-	std::vector<int> nums = { 8, 1, 2, 2, 3 };
+	std::vector<int> nums = { 6, 5, 4, 8, 10 };
 	std::vector<int> count;
 
 	count = smallerNumbersThanCurrent(nums);
