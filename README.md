@@ -8,3 +8,4 @@ https://leetcode.com/
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](https://github.com/Glees0n/leetcode/blob/master/two-sum/two-sum.cpp) | Easy |  
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [C++](https://github.com/Glees0n/leetcode/blob/master/reduce-to-zero/reduce-to-zero.cpp) | Easy |  
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](https://github.com/Glees0n/leetcode/blob/master/jewels-and-stones/jewels-and-stones.cpp) | Easy |  
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [C++](https://github.com/Glees0n/leetcode/blob/master/smaller-than-current-number/smaller-than-current-number.cpp) | Easy |  
