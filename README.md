@@ -12,3 +12,5 @@ https://leetcode.com/
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [C++](https://github.com/Glees0n/leetcode/blob/master/decompass-encoded-list/decompass-encoded-list.cpp) | Easy |  
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [C++](https://github.com/Glees0n/leetcode/blob/master/subtract-product-and-sum/subtract-product-and-sum.cpp) | Easy |  
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [C++](https://github.com/Glees0n/leetcode/blob/master/find-numbers-with-even-digits/find-numbers-with-even-digits.cpp) | Easy |
+| 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/
+) | [C++](https://github.com/Glees0n/leetcode/tree/master/remove-vowels-from-string) | Easy |
