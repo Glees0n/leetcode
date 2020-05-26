@@ -15,3 +15,4 @@ https://leetcode.com/
 | 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [C++](https://github.com/Glees0n/leetcode/blob/master/remove-vowels-from-string/remove-vowels-from-string.cpp) | Easy |
 | 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/submissions/) | [C++](https://github.com/Glees0n/leetcode/blob/master/single-row-keyboard/single-row-keyboard.cpp) | Easy |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [C++](https://github.com/Glees0n/leetcode/blob/master/create-target-array/create-target-array.cpp) | Easy |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [C++](https://github.com/Glees0n/leetcode/blob/master/balanced-string/balanced-string.cpp) | Easy |
