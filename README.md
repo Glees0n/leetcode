@@ -14,3 +14,4 @@ https://leetcode.com/
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [C++](https://github.com/Glees0n/leetcode/blob/master/find-numbers-with-even-digits/find-numbers-with-even-digits.cpp) | Easy |
 | 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [C++](https://github.com/Glees0n/leetcode/blob/master/remove-vowels-from-string/remove-vowels-from-string.cpp) | Easy |
 | 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/submissions/) | [C++](https://github.com/Glees0n/leetcode/blob/master/single-row-keyboard/single-row-keyboard.cpp) | Easy |
+| 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [C++](https://github.com/Glees0n/leetcode/blob/master/create-target-array/create-target-array.cpp) | Easy |
