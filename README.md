@@ -17,3 +17,4 @@ https://leetcode.com/
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [C++](https://github.com/Glees0n/leetcode/blob/master/create-target-array/create-target-array.cpp) | Easy |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [C++](https://github.com/Glees0n/leetcode/blob/master/balanced-string/balanced-string.cpp) | Easy |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [C++](https://github.com/Glees0n/leetcode/blob/master/busy-student/busy-student.cpp) | Easy |
+| 0760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | [C++](https://github.com/Glees0n/leetcode/blob/master/find-anagram-mappings/find-anagram-mappings.cpp) | Easy |
