@@ -19,3 +19,4 @@ https://leetcode.com/
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [C++](https://github.com/Glees0n/leetcode/blob/master/busy-student/busy-student.cpp) | Easy |
 | 0760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | [C++](https://github.com/Glees0n/leetcode/blob/master/find-anagram-mappings/find-anagram-mappings.cpp) | Easy |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [C++](https://github.com/Glees0n/leetcode/blob/master/max-consecutive-ones/max-consecutive-ones.cpp) | Easy |
+| 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](https://github.com/Glees0n/leetcode/blob/master/squares-of-sorted-array/squares-of-sorted-array.cpp) | Easy |
