@@ -21,3 +21,4 @@ https://leetcode.com/
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [C++](https://github.com/Glees0n/leetcode/blob/master/max-consecutive-ones/max-consecutive-ones.cpp) | Easy |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](https://github.com/Glees0n/leetcode/blob/master/squares-of-sorted-array/squares-of-sorted-array.cpp) | Easy |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](https://github.com/Glees0n/leetcode/blob/master/bt-preorder-traversal/bt-preorder-traversal) | Medium |
+| 0094 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](https://github.com/Glees0n/leetcode/blob/master/bt-inorder-traversal/bt-inorder-traversal.cpp) | Medium |
