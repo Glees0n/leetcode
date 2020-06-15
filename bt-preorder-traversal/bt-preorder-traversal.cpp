@@ -2,19 +2,16 @@
 #include <stack>
 #include <vector>
 
-// TreeNode definition
-struct TreeNode 
+struct TreeNode
 {
-	int val; // The value stored in the node
-    TreeNode *left; // The nodes left child
-    TreeNode *right; // The nodes right child
+	int val;
+	TreeNode *left;
+	TreeNode *right;
 };
 
-
-// Creates a new TreeNode
 TreeNode* newNode(int x)
 {
-	TreeNode *node = new TreeNode; // Instantiates a new TreeNode
+	TreeNode *node = new TreeNode;
 
 	node->val = x;
 	node->left = nullptr;
@@ -23,27 +20,23 @@ TreeNode* newNode(int x)
 	return node;
 }
 
-// Traverses the binary tree via pre-order traversal
 std::vector<int> preorderTraversal(TreeNode* root)
 {
 	std::vector<int> preorder;
 	std::stack<TreeNode*> nodes;
 
-	// If there is no root node
 	if (root == nullptr)
 	{
-		return preorder; // Return the empty preorder vector
+		return preorder;
 	}
 
-	nodes.push(root); // Otherwise, push back the root node to the nodes stack
+	nodes.push(root);
 	while (!nodes.empty())
 	{
-		root = nodes.top(); // Root assigned to the top element of the nodes stack
+		root = nodes.top();
 		nodes.pop();
 		preorder.push_back(root->val);
 
-		/* The root node is reassigned to the left child, once the left child is nullptr
-		   the right subtree is traversed */
 		if (root->right != nullptr)
 		{
 			nodes.push(root->right);
